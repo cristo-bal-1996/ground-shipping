@@ -38,5 +38,4 @@ else:
 
 print("The cheapest option is Ground Shipping") 
 print("The second cheapest option is Drone Shipping")
-print("The most expensive option is Ground Shipping Premium")
-print("The most expensive option is Drone Shipping")        
+
